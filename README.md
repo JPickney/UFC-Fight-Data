@@ -4,7 +4,7 @@
 
 As a life long martial artist with nearly ten years of Brazilian Jiu-Jitsu (BJJ) experience, I began this analysis by trying to determine how relevant grappling is in current MMA. With the recent focus on leg attacks in BJJ, I was curious to see how affective these techniques were at the highest level of combatives. Through my analysis I was able to determine grappling has been less affective in recent years and a minority of fights end due to leg submissions. This maybe due to the level of grappling amongst competitors increasing overall and/or a lack of leg submisssion specialist in the UFC. This caused me to ask more questions about which techniques are actually the most affective and hopefully through my findings, I could assist potential martial artist on which areas they should focus on if they were to enter MMA. 
 
-Please see my SQL Analysis and Tableau Dashboard which I used to analysis the UFC dataset. 
+Please see my [SQL Analysis](https://github.com/JPickney/UFC-Fight-Data/commit/2fdf85e7d269e2755309c9b85d04fbe084225c80) and Tableau Dashboard which I used to analysis the UFC dataset. 
 
 <h2>Dataset:</h2>
 
