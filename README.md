@@ -8,11 +8,11 @@ Please see my SQL Analysis and Tableau Dashboard which I used to analysis the UF
 
 <h2>Dataset:</h2>
 
-- MMA Dataset 2023 (UFC): (https://www.kaggle.com/datasets/remypereira/mma-dataset-2023-ufc)
+- [MMA Dataset 2023 (UFC)](https://www.kaggle.com/datasets/remypereira/mma-dataset-2023-ufc)
 
 <h2> Tableau Dashboard:</h2>
 
-- UFC Fight Data: (https://public.tableau.com/views/UFCFightData_16986969566890/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [UFC Fight Data Dashboard](https://public.tableau.com/views/UFCFightData_16986969566890/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <p align="center">
 <br/> 
